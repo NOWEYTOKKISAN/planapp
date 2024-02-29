@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110783023703",
+    "project_id": "plan-app-cd5c8",
+    "storage_bucket": "plan-app-cd5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110783023703:android:1df7c51a3c186bbad57112",
+        "android_client_info": {
+          "package_name": "com.example.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5un53uxQIe3-xAl1FLHW4gAQ075wKOLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
